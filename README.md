@@ -24,7 +24,7 @@ Start the server
   npm start
 ```
 
-![](https://github.com/SaiHarshitaG/EliteEstate/blob/master/screenshots/npm_run_start.png)
+![](https://github.com/SaiHarshitaG/EliteEstate/blob/main/screenshots/npm_run_start.png)
 
 Start the server ( Developer )
 
@@ -32,7 +32,7 @@ Start the server ( Developer )
   npm run dev
 ```
 
-![](https://github.com/SaiHarshitaG/EliteEstate/blob/master/screenshots/npm_run_dev.png)
+![](https://github.com/SaiHarshitaG/EliteEstate/blob/main/screenshots/npm_run_dev.png)
 
 Start the Client
 
@@ -41,4 +41,4 @@ Start the Client
   npm run dev
 ```
 
-![](https://github.com/SaiHarshitaG/EliteEstate/blob/master/screenshots/EliteEstate.png)
+![](https://github.com/SaiHarshitaG/EliteEstate/blob/main/screenshots/EliteEstate.png)
